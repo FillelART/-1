@@ -1,0 +1,162 @@
+.image{background-image: url(https://i.pinimg.com/736x/fa/28/e6/fa28e62324eb6917135d979aa861258b.jpg);
+
+  }
+
+ol{
+
+  font-family: Arial;
+
+  font-size: 16px;
+
+  background-color: #DEB887;
+
+}
+
+p{
+
+  font-family: Arial;
+  color:#FFFFFF;
+  font-size: 20px;
+
+}
+
+head{
+
+  text-align: center;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  font-style: oblique;
+
+  font-family: arial;
+
+  color: brown;
+
+  background-color: #9370DB;
+
+}
+
+footer{
+
+  text-align: left;
+
+  font-size: 15px;
+
+  font-weight: bold;
+
+  font-style: oblique;
+
+  font-family: arial;
+
+  color: brown;
+
+  background-color: #DEB887;
+
+}
+
+h1{
+
+  font-family: Calibri;
+
+  font-size: 30px;
+
+  color:#FFEBCD;
+
+  text-align: center;
+
+}
+
+h2{
+
+  font-family: Calibri;
+
+  font-size: 30px;
+
+  color:#FFFFFF;
+
+  text-align: center;
+
+}
+
+mark{
+
+  font-family: Calibri;
+
+  font-size: 20px;
+
+}
+
+.Div_2{
+  text-align: left;
+
+}
+
+img{
+
+   border-radius: 30px;
+
+}
+
+.button-link{
+
+  display: inline-block;
+
+padding: 10px 20px;
+
+background-color: #4B0082;
+
+color: white;
+
+text-decoration: none;
+
+border-radius: 4px;
+
+font-family: Arial, sans-serif;
+
+font-size: 16px;
+
+}
+
+.button-link:hover {
+
+background-color: #4B0082;
+
+}
+
+li{
+
+  font-family: Arial;
+  color:#FFFFFF;
+  font-size: 20px;
+
+}
+
+
+h4{
+
+  font-family: Calibri;
+
+  font-size: 15px;
+
+  color:#FFFFFF;
+
+  text-align: left;
+
+}
+
+pre{
+
+  font-family: Arial;
+  color:#FFFFFF;
+  font-size: 15px;
+  text-align: center;
+}
+
+ul{
+
+  font-family: Arial;
+  color:#F4A460;
+  font-size: 15px;
+}
